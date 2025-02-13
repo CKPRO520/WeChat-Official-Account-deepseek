@@ -1,7 +1,7 @@
 module.exports = {
   appId: "wx5b53aeff01acf10c",
   appSecret: "b5c3af0b9e62fbd507470dadfbc61d08",
-  token: "DEEPSEEK2024",
+  token: "deepseek",
   encodingAESKey: "SLOgl7zQRNhxfMuHxYKFrmW9KYTW8vbaGNMF4jIfasd",
   deepseekApiKey: "sk-902678025b6044dab846370a3d89f395",
   // 改成嵌套结构存储对话
